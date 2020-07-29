@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/Vyorius/static/js/main.816253c2.chunk.js",
+    "main.js.map": "/Vyorius/static/js/main.816253c2.chunk.js.map",
+    "runtime-main.js": "/Vyorius/static/js/runtime-main.8bbb33d2.js",
+    "runtime-main.js.map": "/Vyorius/static/js/runtime-main.8bbb33d2.js.map",
+    "static/css/2.0e1a4c73.chunk.css": "/Vyorius/static/css/2.0e1a4c73.chunk.css",
+    "static/js/2.97a532f8.chunk.js": "/Vyorius/static/js/2.97a532f8.chunk.js",
+    "static/js/2.97a532f8.chunk.js.map": "/Vyorius/static/js/2.97a532f8.chunk.js.map",
+    "index.html": "/Vyorius/index.html",
+    "precache-manifest.0e2d27e2a2c61e7189cf2e3b207c5905.js": "/Vyorius/precache-manifest.0e2d27e2a2c61e7189cf2e3b207c5905.js",
+    "service-worker.js": "/Vyorius/service-worker.js",
+    "static/css/2.0e1a4c73.chunk.css.map": "/Vyorius/static/css/2.0e1a4c73.chunk.css.map",
+    "static/js/2.97a532f8.chunk.js.LICENSE.txt": "/Vyorius/static/js/2.97a532f8.chunk.js.LICENSE.txt",
+    "static/media/Capture.png": "/Vyorius/static/media/Capture.a00863f3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bbb33d2.js",
+    "static/css/2.0e1a4c73.chunk.css",
+    "static/js/2.97a532f8.chunk.js",
+    "static/js/main.816253c2.chunk.js"
+  ]
+}
