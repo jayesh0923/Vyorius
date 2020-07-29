@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/Vyorius/static/js/main.816253c2.chunk.js",
-    "main.js.map": "/Vyorius/static/js/main.816253c2.chunk.js.map",
-    "runtime-main.js": "/Vyorius/static/js/runtime-main.8bbb33d2.js",
-    "runtime-main.js.map": "/Vyorius/static/js/runtime-main.8bbb33d2.js.map",
-    "static/css/2.0e1a4c73.chunk.css": "/Vyorius/static/css/2.0e1a4c73.chunk.css",
-    "static/js/2.97a532f8.chunk.js": "/Vyorius/static/js/2.97a532f8.chunk.js",
-    "static/js/2.97a532f8.chunk.js.map": "/Vyorius/static/js/2.97a532f8.chunk.js.map",
-    "index.html": "/Vyorius/index.html",
-    "precache-manifest.0e2d27e2a2c61e7189cf2e3b207c5905.js": "/Vyorius/precache-manifest.0e2d27e2a2c61e7189cf2e3b207c5905.js",
-    "service-worker.js": "/Vyorius/service-worker.js",
-    "static/css/2.0e1a4c73.chunk.css.map": "/Vyorius/static/css/2.0e1a4c73.chunk.css.map",
-    "static/js/2.97a532f8.chunk.js.LICENSE.txt": "/Vyorius/static/js/2.97a532f8.chunk.js.LICENSE.txt",
-    "static/media/Capture.png": "/Vyorius/static/media/Capture.a00863f3.png"
+    "main.js": "/keeper-app-part-1-starting/static/js/main.816253c2.chunk.js",
+    "main.js.map": "/keeper-app-part-1-starting/static/js/main.816253c2.chunk.js.map",
+    "runtime-main.js": "/keeper-app-part-1-starting/static/js/runtime-main.cd51eac3.js",
+    "runtime-main.js.map": "/keeper-app-part-1-starting/static/js/runtime-main.cd51eac3.js.map",
+    "static/css/2.0e1a4c73.chunk.css": "/keeper-app-part-1-starting/static/css/2.0e1a4c73.chunk.css",
+    "static/js/2.97a532f8.chunk.js": "/keeper-app-part-1-starting/static/js/2.97a532f8.chunk.js",
+    "static/js/2.97a532f8.chunk.js.map": "/keeper-app-part-1-starting/static/js/2.97a532f8.chunk.js.map",
+    "index.html": "/keeper-app-part-1-starting/index.html",
+    "precache-manifest.3a534f9b6381e8aa06c3a55f65f45043.js": "/keeper-app-part-1-starting/precache-manifest.3a534f9b6381e8aa06c3a55f65f45043.js",
+    "service-worker.js": "/keeper-app-part-1-starting/service-worker.js",
+    "static/css/2.0e1a4c73.chunk.css.map": "/keeper-app-part-1-starting/static/css/2.0e1a4c73.chunk.css.map",
+    "static/js/2.97a532f8.chunk.js.LICENSE.txt": "/keeper-app-part-1-starting/static/js/2.97a532f8.chunk.js.LICENSE.txt",
+    "static/media/Capture.png": "/keeper-app-part-1-starting/static/media/Capture.a00863f3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8bbb33d2.js",
+    "static/js/runtime-main.cd51eac3.js",
     "static/css/2.0e1a4c73.chunk.css",
     "static/js/2.97a532f8.chunk.js",
     "static/js/main.816253c2.chunk.js"
